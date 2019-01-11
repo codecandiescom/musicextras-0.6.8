@@ -1,0 +1,330 @@
+Sun Jan 22 14:13:21 EST 2006  Zachary P. Landau <kapheine@divineinvasion.net>
+  tagged 0.6.8
+
+Sun Jan 22 14:07:12 EST 2006  Zachary P. Landau <kapheine@divineinvasion.net>
+  * Removed old debug_dump in lyricsnet
+
+Sun Jan 22 14:06:17 EST 2006  Zachary P. Landau <kapheine@divineinvasion.net>
+  * Removed debug_var for lyrics
+
+Sun Jan 22 14:04:21 EST 2006  Zachary P. Landau <kapheine@divineinvasion.net>
+  * Updated NEWS for release
+
+Sun Jan 22 13:59:44 EST 2006  Zachary P. Landau <kapheine@divineinvasion.net>
+  * Added script for updating INDEX file
+
+Sun Jan 22 13:57:02 EST 2006  Zachary P. Landau <kapheine@divineinvasion.net>
+  * Fixed lyrics extraction for Plyrics
+
+Sun Jan 22 13:44:29 EST 2006  Zachary P. Landau <kapheine@divineinvasion.net>
+  * Added fixes for most plugins (contributed by Tony Cebzanov)
+
+Sun Jan 22 13:11:04 EST 2006  Zachary P. Landau <kapheine@divineinvasion.net>
+  * Added new plugins to musicextrasrb.rb file
+
+Sun Jan 22 13:08:13 EST 2006  Zachary P. Landau <kapheine@divineinvasion.net>
+  * Added Lrcdb plugin (contributed by Tony Cebzanov)
+
+Sun Jan 22 13:07:03 EST 2006  Zachary P. Landau <kapheine@divineinvasion.net>
+  * Added LyricsDomain plugin (contributed by Tony Cebzanov)
+
+Sun Jan  8 20:48:43 EST 2006  Zachary P. Landau <kapheine@divineinvasion.net>
+  * Updated lyrics and album fetching for LyricsTime
+
+Sun Jan  8 20:48:30 EST 2006  Zachary P. Landau <kapheine@divineinvasion.net>
+  * Fixed up unit tests
+
+Fri Sep 16 10:08:09 EDT 2005  Zachary P. Landau <kapheine@divineinvasion.net>
+  * Added update_plugins task to Rakefile
+
+Wed Sep 14 10:20:49 EDT 2005  Zachary P. Landau <kapheine@divineinvasion.net>
+  * Added --update option
+
+Sun Sep  4 20:38:37 EDT 2005  Zachary P. Landau <kapheine@divineinvasion.net>
+  * Fixed path information in Rakefile
+
+Sat Aug 20 13:15:06 EDT 2005  Zachary P. Landau <kapheine@divineinvasion.net>
+  tagged musicextras-0.6.7
+
+Sat Aug 20 13:06:30 EDT 2005  Zachary P. Landau <kapheine@divineinvasion.net>
+  * Prepared for new release
+
+Sat Aug 20 13:03:32 EDT 2005  Zachary P. Landau <kapheine@divineinvasion.net>
+  * Added automatic test running
+
+Sat Aug 20 13:03:28 EDT 2005  Zachary P. Landau <kapheine@divineinvasion.net>
+  * Updated Rakefile to work for darcs repository
+
+Sat Aug 20 12:17:08 EDT 2005  Zachary P. Landau <kapheine@divineinvasion.net>
+  tagged musicextras-0.6.6
+
+Sat Aug 20 12:16:37 EDT 2005  Zachary P. Landau <kapheine@divineinvasion.net>
+  tagged musicextras-0.6.5
+
+Sat Aug 20 11:27:20 EDT 2005  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 64
+  Updated allofmp3 plugin
+
+Sat Jul 23 16:14:03 EDT 2005  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 63
+  Updated plugins because of changes on the webpages
+
+Mon Mar 21 10:50:37 EST 2005  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 61
+  Removed automatic creation of subversion branch
+
+Mon Mar 21 10:49:47 EST 2005  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 60
+  Google changed their about page. Fixed.
+
+Mon Mar 21 10:49:33 EST 2005  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 59
+  AllMusic added a new review, test case fixed.
+
+Sat Feb  5 16:25:56 EST 2005  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 58
+  Should not have been in repository
+
+Thu Feb  3 15:18:48 EST 2005  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 57
+  Added testing proxy support
+
+Thu Feb  3 15:16:43 EST 2005  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 56
+  Fixed plyrics site (site changes)
+
+Sat Jan 15 18:01:26 EST 2005  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 55
+  Fixed bug with artist_cond_regex not working properly.
+
+Wed Dec 29 18:50:47 EST 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 54
+  Added pronoun removal to PLyrics plugin
+
+Wed Nov 17 17:28:38 EST 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 53
+  Fixed allofmp3 for site changes
+
+Wed Nov 17 17:15:43 EST 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 52
+  Added 'tagging' to release script
+
+Wed Nov 17 17:14:55 EST 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 51
+  Wrapped -T tests to catch exceptions
+
+Tue Oct 26 18:29:41 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 49
+  Only send album year info if we actually got it.
+
+Mon Oct 25 23:14:14 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 48
+  - Added Weaver to THANKS file
+  
+  - Updated setup.rb to 3.3.1
+  
+  - Added web interface
+
+Mon Oct 25 22:10:30 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 47
+  Fixed album year ordering
+
+Mon Oct 25 17:07:35 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 46
+  
+
+Mon Oct 18 00:07:16 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 45
+  Added a test() method for all current plugins
+
+Mon Oct 18 00:06:38 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 44
+  Now returns a non-zero exit code if any plugins fail their tests
+
+Sun Oct 17 23:19:53 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 43
+  Removed greylist timeout entry (done)
+
+Sun Oct 17 23:18:46 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 42
+  Added support for running plugin tests with -T
+
+Sun Oct 17 23:09:28 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 41
+  - Small fixes to get tests running
+  
+  - Added Debuggable::setup() call to tests
+
+Sun Oct 17 21:23:37 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 40
+  Added Debuggable::setup() as a common method for setting up debugging
+
+Sun Oct 17 13:54:44 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 39
+  Added greylist entry timeouts
+
+Sat Oct 16 19:10:57 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 38
+  Added support for catching and reporting plugin exceptions.
+
+Sat Oct 16 14:38:10 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 37
+  Removed the REXML bug workaround (everyone should have the fix by now)
+
+Sat Oct 16 14:36:29 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 36
+  Removed excess requires
+
+Sat Oct 16 14:15:14 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 35
+  Added code to close greylist lock before deleting it.
+
+Mon Oct 11 22:08:36 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 34
+  - Added displaying of album year
+  
+  - Added displaying of track listings if title is not specified
+
+Mon Oct 11 22:07:32 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 33
+  - Added album_year handler
+  
+  - Added ordering to -L
+  
+  - Fixed bug where album_tracks wasn't outputting to STATUS
+
+Sun Oct 10 13:24:35 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 32
+  Small bug in caching album years
+
+Sat Oct  9 19:26:49 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 31
+  Added album year support
+
+Fri Oct  8 00:34:07 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 30
+  Added DATA_DIR variable for data files.
+
+Sun Oct  3 19:57:01 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 29
+  Added '.glade' to install files
+
+Sun Oct  3 19:50:09 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 28
+  Added 'Fill from File' feature
+
+Sun Oct  3 18:32:30 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 27
+  Got rid of Gtk warning when no song information was set
+
+Sun Oct  3 18:29:21 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 26
+  Added 'Fill from File' option to gui
+
+Sat Oct  2 18:11:14 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 25
+  Minor typo
+
+Sat Oct  2 18:11:04 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 24
+  Fixed error when dataaccessor was used without @config['debug_level']
+  being set
+
+Wed Sep 29 21:27:46 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 23
+  GUI socket now closed on exit.
+
+Wed Sep 29 19:48:49 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 22
+  - Added 'winning' plugin and accessor type to data retrieve
+  
+  - Cleaned up retrieve_data() a bit
+
+Mon Sep 27 21:43:04 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 21
+  Upgraded to setup 3.3.0.
+
+Mon Sep 27 21:26:23 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 20
+  Added connection-down entry
+
+Mon Sep 27 21:25:57 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 19
+  Added support for connection-down detection. Also fixed --clear-*
+  options from quitting too early.
+
+Mon Sep 27 21:25:07 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 18
+  Added debug_dump method.
+
+Mon Sep 27 21:23:43 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 17
+  Added minor error checking.
+
+Fri Sep 24 19:16:02 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 16
+  Misc fixes.
+
+Fri Sep 24 19:01:59 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 15
+  Added tracks test
+
+Fri Sep 24 00:31:11 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 14
+  Put the most common regexp into a variable.
+
+Fri Sep 24 00:12:26 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 13
+  Updated plugin to reflect HTML change, again.
+
+Mon Sep 13 19:49:48 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 12
+  - Renamed Config to MConfig to avoid namespace conflicts
+  
+  - Fixed problem where GUI wasn't displaying CDATA
+
+Sat Aug 28 22:18:10 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 11
+  Automatically generated, should not be in repository.
+
+Sat Aug 28 22:16:22 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 10
+  Added support to handle track listings.
+
+Sat Aug 28 22:15:27 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 9
+  Improved error handling a bit. Should abort on exception if debugging
+  is enabled.
+
+Sat Aug 28 22:14:26 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 8
+  Added allofmp3.
+
+Sat Aug 28 22:13:43 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 7
+  Added ability to fetch track listings.
+
+Sat Aug 28 22:13:20 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 6
+  Cleaned up image handling a bit. No longer requires a temporary file.
+
+Sun Aug 15 17:46:24 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 5
+  Added comment about allofmp3 plugin to Paul-henri's line
+
+Sun Aug 15 17:45:36 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 4
+  Added tests for allofmp3 plugin
+
+Sun Aug 15 17:31:50 EDT 2004  Zachary P. Landau <kapheine@divineinvasion.net>
+  * /musicextras/musicextras: changeset 3
+  Updated allmusic plugin to past unit tests.
+
+Sat Aug 20 07:52:57 EDT 2005  Zachary P. Landau <kapheine@divineinvasion.net>
+  * Tailorization of /musicextras/musicextras
+  Import of the upstream sources from
+  
+    Repository: file:///home/kapheine/svn
+    Module:     /musicextras/musicextras
+    Revision:   2
+  

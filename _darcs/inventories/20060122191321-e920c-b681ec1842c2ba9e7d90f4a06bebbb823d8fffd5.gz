@@ -1,0 +1,31 @@
+Starting with tag:
+[TAG musicextras-0.6.7
+Zachary P. Landau <kapheine@divineinvasion.net>**20050820171506] 
+[Fixed path information in Rakefile
+Zachary P. Landau <kapheine@divineinvasion.net>**20050905003837] 
+[Added --update option
+Zachary P. Landau <kapheine@divineinvasion.net>**20050914142049] 
+[Added update_plugins task to Rakefile
+Zachary P. Landau <kapheine@divineinvasion.net>**20050916140809] 
+[Fixed up unit tests
+Zachary P. Landau <kapheine@divineinvasion.net>**20060109014830] 
+[Updated lyrics and album fetching for LyricsTime
+Zachary P. Landau <kapheine@divineinvasion.net>**20060109014843] 
+[Added LyricsDomain plugin (contributed by Tony Cebzanov)
+Zachary P. Landau <kapheine@divineinvasion.net>**20060122180703] 
+[Added Lrcdb plugin (contributed by Tony Cebzanov)
+Zachary P. Landau <kapheine@divineinvasion.net>**20060122180813] 
+[Added new plugins to musicextrasrb.rb file
+Zachary P. Landau <kapheine@divineinvasion.net>**20060122181104] 
+[Added fixes for most plugins (contributed by Tony Cebzanov)
+Zachary P. Landau <kapheine@divineinvasion.net>**20060122184429] 
+[Fixed lyrics extraction for Plyrics
+Zachary P. Landau <kapheine@divineinvasion.net>**20060122185702] 
+[Added script for updating INDEX file
+Zachary P. Landau <kapheine@divineinvasion.net>**20060122185944] 
+[Updated NEWS for release
+Zachary P. Landau <kapheine@divineinvasion.net>**20060122190421] 
+[Removed debug_var for lyrics
+Zachary P. Landau <kapheine@divineinvasion.net>**20060122190617] 
+[Removed old debug_dump in lyricsnet
+Zachary P. Landau <kapheine@divineinvasion.net>**20060122190712] 
